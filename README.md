@@ -12,5 +12,3 @@ A React application that displays a list of Pokémon and detailed information fo
 - React Router DOM
 - Axios (for API requests)
 - Tailwind CSS (for styling)
-
-
